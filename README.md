@@ -62,6 +62,6 @@
 | `olist_geolocation_dataset` | Геолокация |
 | `product_category_name_translation` | Перевод категорий |
 
-## Автор
+Сылка на датасет - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Решения выполнены в рамках изучения SQL для Data Science.
